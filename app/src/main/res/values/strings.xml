@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SafetyApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="add_contact">+ Add Contact</string>
+</resources>
